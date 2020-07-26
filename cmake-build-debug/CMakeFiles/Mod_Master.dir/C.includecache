@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wjsqh/CLionProjects/Mod_Master/master.c
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+mod.c
+C:/Users/wjsqh/CLionProjects/Mod_Master/mod.c
+
+C:/Users/wjsqh/CLionProjects/Mod_Master/mod.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+mod.h
+C:/Users/wjsqh/CLionProjects/Mod_Master/mod.h
+
+C:/Users/wjsqh/CLionProjects/Mod_Master/mod.h
+
